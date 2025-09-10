@@ -3,8 +3,6 @@
 
 This repository contains solutions to coding challenges from the HackerRank Python certification test. These solutions demonstrate proficiency in object-oriented programming, string manipulation, and general Python problem-solving.
 
-## Certificate  
-**[Link to your certificate (if available)]**
 
 ---
 
